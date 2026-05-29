@@ -36,4 +36,5 @@ Se utilizó un dataset público de ventas diarias con registros de fecha y monto
 calculando columnas de producto, cantidad y precio
 
 Fuente: https://gist.github.com/khanusama20/ee33c2869dd5cf3cebdf020be1ca43f6
+
 Fuente: https://gist.github.com/khanusama20/ee33c2869dd5cf3cebdf020be1ca43f6
