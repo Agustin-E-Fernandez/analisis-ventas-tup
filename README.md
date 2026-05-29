@@ -2,7 +2,7 @@
 
 ## Descripción
 Análisis de ventas comerciales Trabajo Práctico de la materia 
-Organización Empresarial - UTN Tecnicatura Universitaria en Programación.
+Organización Empresarial - UTN Tecnicatura Universitaria en Programación. 
 
 ## Integrantes
 - Agustin Ezequiel Fernandez (P1 - Hugo: Líder, P2 - Paco: Desarrollador, P3 - Luis: QA)
