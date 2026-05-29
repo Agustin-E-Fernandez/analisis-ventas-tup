@@ -1,7 +1,7 @@
 # Análisis de Ventas - TUP Organización Empresarial
 
 ## Descripción
-Análisis de ventas comerciales desarrollado como Trabajo Práctico de la materia 
+Análisis de ventas comerciales Trabajo Práctico de la materia 
 Organización Empresarial - UTN Tecnicatura Universitaria en Programación.
 
 ## Integrantes
